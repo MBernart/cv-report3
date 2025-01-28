@@ -21,3 +21,10 @@ Problem:
 ### General concept of neural network
 
 - U-net-inspired network with VGG16
+
+
+### Materials 
+
+- <https://github.com/mberkay0/image-colorization>
+- <https://medium.com/@geokam/building-an-image-colorization-neural-network-part-4-implementation-7e8bb74616c>
+- lecture/lab presentations 
