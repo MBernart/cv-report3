@@ -1,0 +1,6 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = gdrive://1oRFn162Gr6p4XP7dyCRv6fbLlnSMzdp9
+    gdrive_use_service_account = true
+    gdrive_service_account_json_file_path = ../stalwart-summer-445919-d8-f1227c2c2403.json
