@@ -1,0 +1,6 @@
+outs:
+- md5: 5d81f8983cc9db2a1cc4972ebd5b1535.dir
+  size: 254778392
+  nfiles: 4099
+  hash: md5
+  path: musemart
